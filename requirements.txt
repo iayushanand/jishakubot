@@ -1,0 +1,6 @@
+discord.py>=2.3.0
+jishaku>=2.5.0
+pymongo>=4.9.0
+python-dotenv>=1.0.0
+dnspython>=2.0.0
+
